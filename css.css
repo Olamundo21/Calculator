@@ -1,0 +1,12 @@
+body{
+    background-color:grey
+}
+
+.buttons{
+    width: 60px;
+    height: 30px;
+}
+
+.row{
+    padding: 2px;
+}
